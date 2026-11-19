@@ -1,0 +1,421 @@
+country_code,country,year,indicator_code,indicator,value
+ZAF,South Africa,2005,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),42.13
+ZAF,South Africa,2005,IT.NET.USER.ZS,Individuals using internet (% population),8.31
+ZAF,South Africa,2005,NY.GDP.PCAP.CD,GDP per capita (current US$),2923.64
+ZAF,South Africa,2005,SL.UEM.TOTL.ZS,Total unemployment (% labor force),25.98
+ZAF,South Africa,2006,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),44.91
+ZAF,South Africa,2006,IT.NET.USER.ZS,Individuals using internet (% population),10.72
+ZAF,South Africa,2006,NY.GDP.PCAP.CD,GDP per capita (current US$),3136.09
+ZAF,South Africa,2006,SL.UEM.TOTL.ZS,Total unemployment (% labor force),25.8
+ZAF,South Africa,2007,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),45.04
+ZAF,South Africa,2007,IT.NET.USER.ZS,Individuals using internet (% population),13.91
+ZAF,South Africa,2007,NY.GDP.PCAP.CD,GDP per capita (current US$),3297.17
+ZAF,South Africa,2007,SL.UEM.TOTL.ZS,Total unemployment (% labor force),26.5
+ZAF,South Africa,2008,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),46.26
+ZAF,South Africa,2008,IT.NET.USER.ZS,Individuals using internet (% population),17.19
+ZAF,South Africa,2008,NY.GDP.PCAP.CD,GDP per capita (current US$),3310.27
+ZAF,South Africa,2008,SL.UEM.TOTL.ZS,Total unemployment (% labor force),26.19
+ZAF,South Africa,2009,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),46.7
+ZAF,South Africa,2009,IT.NET.USER.ZS,Individuals using internet (% population),21.11
+ZAF,South Africa,2009,NY.GDP.PCAP.CD,GDP per capita (current US$),3348.27
+ZAF,South Africa,2009,SL.UEM.TOTL.ZS,Total unemployment (% labor force),26.05
+ZAF,South Africa,2010,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),47.22
+ZAF,South Africa,2010,IT.NET.USER.ZS,Individuals using internet (% population),24.35
+ZAF,South Africa,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),3403.9
+ZAF,South Africa,2010,SL.UEM.TOTL.ZS,Total unemployment (% labor force),27.19
+ZAF,South Africa,2011,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),48.82
+ZAF,South Africa,2011,IT.NET.USER.ZS,Individuals using internet (% population),28.97
+ZAF,South Africa,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),3424.27
+ZAF,South Africa,2011,SL.UEM.TOTL.ZS,Total unemployment (% labor force),28.41
+ZAF,South Africa,2012,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),46.94
+ZAF,South Africa,2012,IT.NET.USER.ZS,Individuals using internet (% population),29.93
+ZAF,South Africa,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),3446.93
+ZAF,South Africa,2012,SL.UEM.TOTL.ZS,Total unemployment (% labor force),28.49
+ZAF,South Africa,2013,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),49.23
+ZAF,South Africa,2013,IT.NET.USER.ZS,Individuals using internet (% population),34.28
+ZAF,South Africa,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),3538.45
+ZAF,South Africa,2013,SL.UEM.TOTL.ZS,Total unemployment (% labor force),28.02
+ZAF,South Africa,2014,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),47.66
+ZAF,South Africa,2014,IT.NET.USER.ZS,Individuals using internet (% population),35.31
+ZAF,South Africa,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),3733.01
+ZAF,South Africa,2014,SL.UEM.TOTL.ZS,Total unemployment (% labor force),28.09
+ZAF,South Africa,2015,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),48.34
+ZAF,South Africa,2015,IT.NET.USER.ZS,Individuals using internet (% population),38.18
+ZAF,South Africa,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),3674.2
+ZAF,South Africa,2015,SL.UEM.TOTL.ZS,Total unemployment (% labor force),28.42
+ZAF,South Africa,2016,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),48.7
+ZAF,South Africa,2016,IT.NET.USER.ZS,Individuals using internet (% population),43.04
+ZAF,South Africa,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),4019.16
+ZAF,South Africa,2016,SL.UEM.TOTL.ZS,Total unemployment (% labor force),26.79
+ZAF,South Africa,2017,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),50.9
+ZAF,South Africa,2017,IT.NET.USER.ZS,Individuals using internet (% population),49.3
+ZAF,South Africa,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),4031.71
+ZAF,South Africa,2017,SL.UEM.TOTL.ZS,Total unemployment (% labor force),27.94
+ZAF,South Africa,2018,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),47.56
+ZAF,South Africa,2018,IT.NET.USER.ZS,Individuals using internet (% population),49.59
+ZAF,South Africa,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),3905.13
+ZAF,South Africa,2018,SL.UEM.TOTL.ZS,Total unemployment (% labor force),27.44
+ZAF,South Africa,2019,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),48.38
+ZAF,South Africa,2019,IT.NET.USER.ZS,Individuals using internet (% population),51.77
+ZAF,South Africa,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),4131.19
+ZAF,South Africa,2019,SL.UEM.TOTL.ZS,Total unemployment (% labor force),27.25
+ZAF,South Africa,2020,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),48.25
+ZAF,South Africa,2020,IT.NET.USER.ZS,Individuals using internet (% population),53.2
+ZAF,South Africa,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),3986.45
+ZAF,South Africa,2020,SL.UEM.TOTL.ZS,Total unemployment (% labor force),26.94
+ZAF,South Africa,2021,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),49.17
+ZAF,South Africa,2021,IT.NET.USER.ZS,Individuals using internet (% population),59.28
+ZAF,South Africa,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),4086.42
+ZAF,South Africa,2021,SL.UEM.TOTL.ZS,Total unemployment (% labor force),28.53
+ZAF,South Africa,2022,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),49.86
+ZAF,South Africa,2022,IT.NET.USER.ZS,Individuals using internet (% population),60.92
+ZAF,South Africa,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),4044.81
+ZAF,South Africa,2022,SL.UEM.TOTL.ZS,Total unemployment (% labor force),28.35
+ZAF,South Africa,2023,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),54.82
+ZAF,South Africa,2023,IT.NET.USER.ZS,Individuals using internet (% population),63.04
+ZAF,South Africa,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),4375.96
+ZAF,South Africa,2023,SL.UEM.TOTL.ZS,Total unemployment (% labor force),29.72
+ZAF,South Africa,2024,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),53.38
+ZAF,South Africa,2024,IT.NET.USER.ZS,Individuals using internet (% population),66.05
+ZAF,South Africa,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),4456.58
+ZAF,South Africa,2024,SL.UEM.TOTL.ZS,Total unemployment (% labor force),29.87
+ZAF,South Africa,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),56.43
+ZAF,South Africa,2025,IT.NET.USER.ZS,Individuals using internet (% population),69.07
+ZAF,South Africa,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),4407.33
+ZAF,South Africa,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),30.9
+BWA,Botswana,2005,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),31.41
+BWA,Botswana,2005,IT.NET.USER.ZS,Individuals using internet (% population),4.4
+BWA,Botswana,2005,NY.GDP.PCAP.CD,GDP per capita (current US$),3822.3
+BWA,Botswana,2005,SL.UEM.TOTL.ZS,Total unemployment (% labor force),16.86
+BWA,Botswana,2006,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),31.27
+BWA,Botswana,2006,IT.NET.USER.ZS,Individuals using internet (% population),9.98
+BWA,Botswana,2006,NY.GDP.PCAP.CD,GDP per capita (current US$),4050.7
+BWA,Botswana,2006,SL.UEM.TOTL.ZS,Total unemployment (% labor force),16.22
+BWA,Botswana,2007,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),31.35
+BWA,Botswana,2007,IT.NET.USER.ZS,Individuals using internet (% population),10.53
+BWA,Botswana,2007,NY.GDP.PCAP.CD,GDP per capita (current US$),4077.52
+BWA,Botswana,2007,SL.UEM.TOTL.ZS,Total unemployment (% labor force),19.56
+BWA,Botswana,2008,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),33.91
+BWA,Botswana,2008,IT.NET.USER.ZS,Individuals using internet (% population),15.63
+BWA,Botswana,2008,NY.GDP.PCAP.CD,GDP per capita (current US$),4021.32
+BWA,Botswana,2008,SL.UEM.TOTL.ZS,Total unemployment (% labor force),17.89
+BWA,Botswana,2009,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),32.99
+BWA,Botswana,2009,IT.NET.USER.ZS,Individuals using internet (% population),18.36
+BWA,Botswana,2009,NY.GDP.PCAP.CD,GDP per capita (current US$),4338.42
+BWA,Botswana,2009,SL.UEM.TOTL.ZS,Total unemployment (% labor force),18.76
+BWA,Botswana,2010,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),37.28
+BWA,Botswana,2010,IT.NET.USER.ZS,Individuals using internet (% population),21.76
+BWA,Botswana,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),4305.24
+BWA,Botswana,2010,SL.UEM.TOTL.ZS,Total unemployment (% labor force),19.66
+BWA,Botswana,2011,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),36.65
+BWA,Botswana,2011,IT.NET.USER.ZS,Individuals using internet (% population),26.09
+BWA,Botswana,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),4297.57
+BWA,Botswana,2011,SL.UEM.TOTL.ZS,Total unemployment (% labor force),17.87
+BWA,Botswana,2012,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),36.42
+BWA,Botswana,2012,IT.NET.USER.ZS,Individuals using internet (% population),26.9
+BWA,Botswana,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),4470.12
+BWA,Botswana,2012,SL.UEM.TOTL.ZS,Total unemployment (% labor force),20.71
+BWA,Botswana,2013,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),35.1
+BWA,Botswana,2013,IT.NET.USER.ZS,Individuals using internet (% population),31.79
+BWA,Botswana,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),4665.87
+BWA,Botswana,2013,SL.UEM.TOTL.ZS,Total unemployment (% labor force),19.86
+BWA,Botswana,2014,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),37.46
+BWA,Botswana,2014,IT.NET.USER.ZS,Individuals using internet (% population),33.3
+BWA,Botswana,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),4557.36
+BWA,Botswana,2014,SL.UEM.TOTL.ZS,Total unemployment (% labor force),20.21
+BWA,Botswana,2015,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),36.91
+BWA,Botswana,2015,IT.NET.USER.ZS,Individuals using internet (% population),38.81
+BWA,Botswana,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),4743.84
+BWA,Botswana,2015,SL.UEM.TOTL.ZS,Total unemployment (% labor force),20.55
+BWA,Botswana,2016,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),35.74
+BWA,Botswana,2016,IT.NET.USER.ZS,Individuals using internet (% population),38.72
+BWA,Botswana,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),4562.56
+BWA,Botswana,2016,SL.UEM.TOTL.ZS,Total unemployment (% labor force),18.59
+BWA,Botswana,2017,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),36.99
+BWA,Botswana,2017,IT.NET.USER.ZS,Individuals using internet (% population),41.3
+BWA,Botswana,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),4829.87
+BWA,Botswana,2017,SL.UEM.TOTL.ZS,Total unemployment (% labor force),20.84
+BWA,Botswana,2018,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),37.22
+BWA,Botswana,2018,IT.NET.USER.ZS,Individuals using internet (% population),48.63
+BWA,Botswana,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),4848.69
+BWA,Botswana,2018,SL.UEM.TOTL.ZS,Total unemployment (% labor force),17.73
+BWA,Botswana,2019,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),38.37
+BWA,Botswana,2019,IT.NET.USER.ZS,Individuals using internet (% population),47.56
+BWA,Botswana,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),5057.24
+BWA,Botswana,2019,SL.UEM.TOTL.ZS,Total unemployment (% labor force),19.79
+BWA,Botswana,2020,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),36.29
+BWA,Botswana,2020,IT.NET.USER.ZS,Individuals using internet (% population),54.52
+BWA,Botswana,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),5309.77
+BWA,Botswana,2020,SL.UEM.TOTL.ZS,Total unemployment (% labor force),20.33
+BWA,Botswana,2021,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),38.14
+BWA,Botswana,2021,IT.NET.USER.ZS,Individuals using internet (% population),55.85
+BWA,Botswana,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),5082.18
+BWA,Botswana,2021,SL.UEM.TOTL.ZS,Total unemployment (% labor force),20.18
+BWA,Botswana,2022,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),39.08
+BWA,Botswana,2022,IT.NET.USER.ZS,Individuals using internet (% population),57.59
+BWA,Botswana,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),5391.66
+BWA,Botswana,2022,SL.UEM.TOTL.ZS,Total unemployment (% labor force),19.84
+BWA,Botswana,2023,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),39.84
+BWA,Botswana,2023,IT.NET.USER.ZS,Individuals using internet (% population),58.87
+BWA,Botswana,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),5432.33
+BWA,Botswana,2023,SL.UEM.TOTL.ZS,Total unemployment (% labor force),21.92
+BWA,Botswana,2024,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),42.23
+BWA,Botswana,2024,IT.NET.USER.ZS,Individuals using internet (% population),68.69
+BWA,Botswana,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),5566.06
+BWA,Botswana,2024,SL.UEM.TOTL.ZS,Total unemployment (% labor force),21.33
+BWA,Botswana,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),45.68
+BWA,Botswana,2025,IT.NET.USER.ZS,Individuals using internet (% population),66.8
+BWA,Botswana,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),5630.28
+BWA,Botswana,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),23.09
+NAM,Namibia,2005,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),36.03
+NAM,Namibia,2005,IT.NET.USER.ZS,Individuals using internet (% population),6.81
+NAM,Namibia,2005,NY.GDP.PCAP.CD,GDP per capita (current US$),2425.53
+NAM,Namibia,2005,SL.UEM.TOTL.ZS,Total unemployment (% labor force),22.4
+NAM,Namibia,2006,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),37.46
+NAM,Namibia,2006,IT.NET.USER.ZS,Individuals using internet (% population),9.79
+NAM,Namibia,2006,NY.GDP.PCAP.CD,GDP per capita (current US$),2388.41
+NAM,Namibia,2006,SL.UEM.TOTL.ZS,Total unemployment (% labor force),21.34
+NAM,Namibia,2007,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),40.9
+NAM,Namibia,2007,IT.NET.USER.ZS,Individuals using internet (% population),10.65
+NAM,Namibia,2007,NY.GDP.PCAP.CD,GDP per capita (current US$),2503.92
+NAM,Namibia,2007,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.48
+NAM,Namibia,2008,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),41.58
+NAM,Namibia,2008,IT.NET.USER.ZS,Individuals using internet (% population),15.12
+NAM,Namibia,2008,NY.GDP.PCAP.CD,GDP per capita (current US$),2628.23
+NAM,Namibia,2008,SL.UEM.TOTL.ZS,Total unemployment (% labor force),23.11
+NAM,Namibia,2009,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),41.97
+NAM,Namibia,2009,IT.NET.USER.ZS,Individuals using internet (% population),18.84
+NAM,Namibia,2009,NY.GDP.PCAP.CD,GDP per capita (current US$),2655.99
+NAM,Namibia,2009,SL.UEM.TOTL.ZS,Total unemployment (% labor force),23.87
+NAM,Namibia,2010,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),37.62
+NAM,Namibia,2010,IT.NET.USER.ZS,Individuals using internet (% population),21.22
+NAM,Namibia,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),2660.27
+NAM,Namibia,2010,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.04
+NAM,Namibia,2011,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),42.97
+NAM,Namibia,2011,IT.NET.USER.ZS,Individuals using internet (% population),23.95
+NAM,Namibia,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),2717.08
+NAM,Namibia,2011,SL.UEM.TOTL.ZS,Total unemployment (% labor force),23.43
+NAM,Namibia,2012,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),40.69
+NAM,Namibia,2012,IT.NET.USER.ZS,Individuals using internet (% population),27.18
+NAM,Namibia,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),2758.28
+NAM,Namibia,2012,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.64
+NAM,Namibia,2013,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),42.5
+NAM,Namibia,2013,IT.NET.USER.ZS,Individuals using internet (% population),30.33
+NAM,Namibia,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),2805.8
+NAM,Namibia,2013,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.65
+NAM,Namibia,2014,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),42.51
+NAM,Namibia,2014,IT.NET.USER.ZS,Individuals using internet (% population),34.11
+NAM,Namibia,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),2816.54
+NAM,Namibia,2014,SL.UEM.TOTL.ZS,Total unemployment (% labor force),25.03
+NAM,Namibia,2015,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),42.82
+NAM,Namibia,2015,IT.NET.USER.ZS,Individuals using internet (% population),36.14
+NAM,Namibia,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),2869.79
+NAM,Namibia,2015,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.67
+NAM,Namibia,2016,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),43.0
+NAM,Namibia,2016,IT.NET.USER.ZS,Individuals using internet (% population),37.7
+NAM,Namibia,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),2958.87
+NAM,Namibia,2016,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.4
+NAM,Namibia,2017,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),41.36
+NAM,Namibia,2017,IT.NET.USER.ZS,Individuals using internet (% population),41.39
+NAM,Namibia,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),2893.12
+NAM,Namibia,2017,SL.UEM.TOTL.ZS,Total unemployment (% labor force),23.59
+NAM,Namibia,2018,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),40.6
+NAM,Namibia,2018,IT.NET.USER.ZS,Individuals using internet (% population),44.5
+NAM,Namibia,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),3014.88
+NAM,Namibia,2018,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.07
+NAM,Namibia,2019,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),43.11
+NAM,Namibia,2019,IT.NET.USER.ZS,Individuals using internet (% population),48.16
+NAM,Namibia,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),3053.12
+NAM,Namibia,2019,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.14
+NAM,Namibia,2020,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),42.09
+NAM,Namibia,2020,IT.NET.USER.ZS,Individuals using internet (% population),51.24
+NAM,Namibia,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),3140.59
+NAM,Namibia,2020,SL.UEM.TOTL.ZS,Total unemployment (% labor force),26.08
+NAM,Namibia,2021,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),45.86
+NAM,Namibia,2021,IT.NET.USER.ZS,Individuals using internet (% population),56.52
+NAM,Namibia,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),3356.11
+NAM,Namibia,2021,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.49
+NAM,Namibia,2022,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),45.93
+NAM,Namibia,2022,IT.NET.USER.ZS,Individuals using internet (% population),58.69
+NAM,Namibia,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),3291.09
+NAM,Namibia,2022,SL.UEM.TOTL.ZS,Total unemployment (% labor force),27.33
+NAM,Namibia,2023,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),49.13
+NAM,Namibia,2023,IT.NET.USER.ZS,Individuals using internet (% population),62.07
+NAM,Namibia,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),3354.23
+NAM,Namibia,2023,SL.UEM.TOTL.ZS,Total unemployment (% labor force),25.61
+NAM,Namibia,2024,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),46.32
+NAM,Namibia,2024,IT.NET.USER.ZS,Individuals using internet (% population),64.81
+NAM,Namibia,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),3352.15
+NAM,Namibia,2024,SL.UEM.TOTL.ZS,Total unemployment (% labor force),26.06
+NAM,Namibia,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),48.61
+NAM,Namibia,2025,IT.NET.USER.ZS,Individuals using internet (% population),67.47
+NAM,Namibia,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),3475.39
+NAM,Namibia,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),27.5
+KEN,Kenya,2005,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),20.7
+KEN,Kenya,2005,IT.NET.USER.ZS,Individuals using internet (% population),3.01
+KEN,Kenya,2005,NY.GDP.PCAP.CD,GDP per capita (current US$),904.67
+KEN,Kenya,2005,SL.UEM.TOTL.ZS,Total unemployment (% labor force),10.19
+KEN,Kenya,2006,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),23.12
+KEN,Kenya,2006,IT.NET.USER.ZS,Individuals using internet (% population),8.95
+KEN,Kenya,2006,NY.GDP.PCAP.CD,GDP per capita (current US$),940.88
+KEN,Kenya,2006,SL.UEM.TOTL.ZS,Total unemployment (% labor force),10.57
+KEN,Kenya,2007,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),23.44
+KEN,Kenya,2007,IT.NET.USER.ZS,Individuals using internet (% population),6.9
+KEN,Kenya,2007,NY.GDP.PCAP.CD,GDP per capita (current US$),888.41
+KEN,Kenya,2007,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.6
+KEN,Kenya,2008,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),24.42
+KEN,Kenya,2008,IT.NET.USER.ZS,Individuals using internet (% population),11.41
+KEN,Kenya,2008,NY.GDP.PCAP.CD,GDP per capita (current US$),900.34
+KEN,Kenya,2008,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.73
+KEN,Kenya,2009,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),25.32
+KEN,Kenya,2009,IT.NET.USER.ZS,Individuals using internet (% population),15.44
+KEN,Kenya,2009,NY.GDP.PCAP.CD,GDP per capita (current US$),994.22
+KEN,Kenya,2009,SL.UEM.TOTL.ZS,Total unemployment (% labor force),14.08
+KEN,Kenya,2010,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),25.37
+KEN,Kenya,2010,IT.NET.USER.ZS,Individuals using internet (% population),19.11
+KEN,Kenya,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),990.78
+KEN,Kenya,2010,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.95
+KEN,Kenya,2011,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),25.85
+KEN,Kenya,2011,IT.NET.USER.ZS,Individuals using internet (% population),22.85
+KEN,Kenya,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),985.63
+KEN,Kenya,2011,SL.UEM.TOTL.ZS,Total unemployment (% labor force),14.27
+KEN,Kenya,2012,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),27.92
+KEN,Kenya,2012,IT.NET.USER.ZS,Individuals using internet (% population),24.75
+KEN,Kenya,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),1039.18
+KEN,Kenya,2012,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.55
+KEN,Kenya,2013,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),28.91
+KEN,Kenya,2013,IT.NET.USER.ZS,Individuals using internet (% population),29.07
+KEN,Kenya,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),1055.85
+KEN,Kenya,2013,SL.UEM.TOTL.ZS,Total unemployment (% labor force),13.58
+KEN,Kenya,2014,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),26.73
+KEN,Kenya,2014,IT.NET.USER.ZS,Individuals using internet (% population),30.05
+KEN,Kenya,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),1077.75
+KEN,Kenya,2014,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.83
+KEN,Kenya,2015,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),26.67
+KEN,Kenya,2015,IT.NET.USER.ZS,Individuals using internet (% population),33.12
+KEN,Kenya,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),1113.18
+KEN,Kenya,2015,SL.UEM.TOTL.ZS,Total unemployment (% labor force),13.33
+KEN,Kenya,2016,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),26.34
+KEN,Kenya,2016,IT.NET.USER.ZS,Individuals using internet (% population),40.95
+KEN,Kenya,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),1129.61
+KEN,Kenya,2016,SL.UEM.TOTL.ZS,Total unemployment (% labor force),13.55
+KEN,Kenya,2017,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),26.14
+KEN,Kenya,2017,IT.NET.USER.ZS,Individuals using internet (% population),38.85
+KEN,Kenya,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),1156.07
+KEN,Kenya,2017,SL.UEM.TOTL.ZS,Total unemployment (% labor force),14.48
+KEN,Kenya,2018,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),26.36
+KEN,Kenya,2018,IT.NET.USER.ZS,Individuals using internet (% population),45.48
+KEN,Kenya,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),1142.67
+KEN,Kenya,2018,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.21
+KEN,Kenya,2019,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),25.98
+KEN,Kenya,2019,IT.NET.USER.ZS,Individuals using internet (% population),45.03
+KEN,Kenya,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),1157.19
+KEN,Kenya,2019,SL.UEM.TOTL.ZS,Total unemployment (% labor force),14.08
+KEN,Kenya,2020,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),26.31
+KEN,Kenya,2020,IT.NET.USER.ZS,Individuals using internet (% population),49.4
+KEN,Kenya,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1188.88
+KEN,Kenya,2020,SL.UEM.TOTL.ZS,Total unemployment (% labor force),13.43
+KEN,Kenya,2021,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),27.17
+KEN,Kenya,2021,IT.NET.USER.ZS,Individuals using internet (% population),52.71
+KEN,Kenya,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),1225.95
+KEN,Kenya,2021,SL.UEM.TOTL.ZS,Total unemployment (% labor force),13.92
+KEN,Kenya,2022,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),28.37
+KEN,Kenya,2022,IT.NET.USER.ZS,Individuals using internet (% population),55.52
+KEN,Kenya,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),1229.13
+KEN,Kenya,2022,SL.UEM.TOTL.ZS,Total unemployment (% labor force),14.46
+KEN,Kenya,2023,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),29.97
+KEN,Kenya,2023,IT.NET.USER.ZS,Individuals using internet (% population),58.5
+KEN,Kenya,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1210.88
+KEN,Kenya,2023,SL.UEM.TOTL.ZS,Total unemployment (% labor force),15.28
+KEN,Kenya,2024,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),30.93
+KEN,Kenya,2024,IT.NET.USER.ZS,Individuals using internet (% population),63.96
+KEN,Kenya,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1245.13
+KEN,Kenya,2024,SL.UEM.TOTL.ZS,Total unemployment (% labor force),16.31
+KEN,Kenya,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),33.17
+KEN,Kenya,2025,IT.NET.USER.ZS,Individuals using internet (% population),63.55
+KEN,Kenya,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),1244.28
+KEN,Kenya,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),16.26
+NGA,Nigeria,2005,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),18.73
+NGA,Nigeria,2005,IT.NET.USER.ZS,Individuals using internet (% population),1.25
+NGA,Nigeria,2005,NY.GDP.PCAP.CD,GDP per capita (current US$),833.27
+NGA,Nigeria,2005,SL.UEM.TOTL.ZS,Total unemployment (% labor force),6.97
+NGA,Nigeria,2006,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),18.77
+NGA,Nigeria,2006,IT.NET.USER.ZS,Individuals using internet (% population),5.51
+NGA,Nigeria,2006,NY.GDP.PCAP.CD,GDP per capita (current US$),879.19
+NGA,Nigeria,2006,SL.UEM.TOTL.ZS,Total unemployment (% labor force),9.89
+NGA,Nigeria,2007,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),19.98
+NGA,Nigeria,2007,IT.NET.USER.ZS,Individuals using internet (% population),7.9
+NGA,Nigeria,2007,NY.GDP.PCAP.CD,GDP per capita (current US$),906.92
+NGA,Nigeria,2007,SL.UEM.TOTL.ZS,Total unemployment (% labor force),10.04
+NGA,Nigeria,2008,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),18.8
+NGA,Nigeria,2008,IT.NET.USER.ZS,Individuals using internet (% population),12.63
+NGA,Nigeria,2008,NY.GDP.PCAP.CD,GDP per capita (current US$),876.07
+NGA,Nigeria,2008,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.58
+NGA,Nigeria,2009,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),24.01
+NGA,Nigeria,2009,IT.NET.USER.ZS,Individuals using internet (% population),15.39
+NGA,Nigeria,2009,NY.GDP.PCAP.CD,GDP per capita (current US$),944.45
+NGA,Nigeria,2009,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.31
+NGA,Nigeria,2010,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),21.53
+NGA,Nigeria,2010,IT.NET.USER.ZS,Individuals using internet (% population),17.83
+NGA,Nigeria,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),945.35
+NGA,Nigeria,2010,SL.UEM.TOTL.ZS,Total unemployment (% labor force),10.62
+NGA,Nigeria,2011,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),25.33
+NGA,Nigeria,2011,IT.NET.USER.ZS,Individuals using internet (% population),19.85
+NGA,Nigeria,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),938.45
+NGA,Nigeria,2011,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.66
+NGA,Nigeria,2012,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),24.43
+NGA,Nigeria,2012,IT.NET.USER.ZS,Individuals using internet (% population),22.92
+NGA,Nigeria,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),959.66
+NGA,Nigeria,2012,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.9
+NGA,Nigeria,2013,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),21.75
+NGA,Nigeria,2013,IT.NET.USER.ZS,Individuals using internet (% population),25.8
+NGA,Nigeria,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),971.43
+NGA,Nigeria,2013,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.23
+NGA,Nigeria,2014,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),23.08
+NGA,Nigeria,2014,IT.NET.USER.ZS,Individuals using internet (% population),32.3
+NGA,Nigeria,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),1033.79
+NGA,Nigeria,2014,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.5
+NGA,Nigeria,2015,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),22.87
+NGA,Nigeria,2015,IT.NET.USER.ZS,Individuals using internet (% population),34.14
+NGA,Nigeria,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),1039.42
+NGA,Nigeria,2015,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.03
+NGA,Nigeria,2016,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),24.57
+NGA,Nigeria,2016,IT.NET.USER.ZS,Individuals using internet (% population),34.79
+NGA,Nigeria,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),988.9
+NGA,Nigeria,2016,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.34
+NGA,Nigeria,2017,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),23.17
+NGA,Nigeria,2017,IT.NET.USER.ZS,Individuals using internet (% population),39.57
+NGA,Nigeria,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),1048.93
+NGA,Nigeria,2017,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.2
+NGA,Nigeria,2018,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),23.91
+NGA,Nigeria,2018,IT.NET.USER.ZS,Individuals using internet (% population),43.1
+NGA,Nigeria,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),1115.99
+NGA,Nigeria,2018,SL.UEM.TOTL.ZS,Total unemployment (% labor force),9.93
+NGA,Nigeria,2019,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),21.89
+NGA,Nigeria,2019,IT.NET.USER.ZS,Individuals using internet (% population),47.3
+NGA,Nigeria,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),1115.41
+NGA,Nigeria,2019,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.2
+NGA,Nigeria,2020,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),24.02
+NGA,Nigeria,2020,IT.NET.USER.ZS,Individuals using internet (% population),47.88
+NGA,Nigeria,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),1122.84
+NGA,Nigeria,2020,SL.UEM.TOTL.ZS,Total unemployment (% labor force),11.28
+NGA,Nigeria,2021,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),23.49
+NGA,Nigeria,2021,IT.NET.USER.ZS,Individuals using internet (% population),50.16
+NGA,Nigeria,2021,NY.GDP.PCAP.CD,GDP per capita (current US$),1138.57
+NGA,Nigeria,2021,SL.UEM.TOTL.ZS,Total unemployment (% labor force),12.79
+NGA,Nigeria,2022,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),28.01
+NGA,Nigeria,2022,IT.NET.USER.ZS,Individuals using internet (% population),55.18
+NGA,Nigeria,2022,NY.GDP.PCAP.CD,GDP per capita (current US$),1165.5
+NGA,Nigeria,2022,SL.UEM.TOTL.ZS,Total unemployment (% labor force),14.02
+NGA,Nigeria,2023,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),26.49
+NGA,Nigeria,2023,IT.NET.USER.ZS,Individuals using internet (% population),56.55
+NGA,Nigeria,2023,NY.GDP.PCAP.CD,GDP per capita (current US$),1157.58
+NGA,Nigeria,2023,SL.UEM.TOTL.ZS,Total unemployment (% labor force),13.33
+NGA,Nigeria,2024,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),30.78
+NGA,Nigeria,2024,IT.NET.USER.ZS,Individuals using internet (% population),60.45
+NGA,Nigeria,2024,NY.GDP.PCAP.CD,GDP per capita (current US$),1222.48
+NGA,Nigeria,2024,SL.UEM.TOTL.ZS,Total unemployment (% labor force),13.66
+NGA,Nigeria,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),30.29
+NGA,Nigeria,2025,IT.NET.USER.ZS,Individuals using internet (% population),64.89
+NGA,Nigeria,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),1220.59
+NGA,Nigeria,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),15.1

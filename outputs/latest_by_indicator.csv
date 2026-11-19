@@ -1,0 +1,21 @@
+country_code,country,year,indicator_code,indicator,value
+BWA,Botswana,2024,IT.NET.USER.ZS,Individuals using internet (% population),57.45950036
+KEN,Kenya,2024,IT.NET.USER.ZS,Individuals using internet (% population),34.97622513
+NAM,Namibia,2024,IT.NET.USER.ZS,Individuals using internet (% population),64.87460327
+NGA,Nigeria,2024,IT.NET.USER.ZS,Individuals using internet (% population),41.21139908
+ZAF,South Africa,2024,IT.NET.USER.ZS,Individuals using internet (% population),78.35759735
+BWA,Botswana,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),7778.1151090571
+KEN,Kenya,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),2362.86091198611
+NAM,Namibia,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),4875.92558158247
+NGA,Nigeria,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),1224.25410237743
+ZAF,South Africa,2025,NY.GDP.PCAP.CD,GDP per capita (current US$),6597.71450918774
+BWA,Botswana,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),46.004
+KEN,Kenya,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),15.246
+NAM,Namibia,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),38.05
+NGA,Nigeria,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),5.34
+ZAF,South Africa,2025,SL.UEM.1524.ZS,Youth unemployment (% labor force ages 15–24),59.93
+BWA,Botswana,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),24.477
+KEN,Kenya,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),5.449
+NAM,Namibia,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),19.291
+NGA,Nigeria,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),3.064
+ZAF,South Africa,2025,SL.UEM.TOTL.ZS,Total unemployment (% labor force),32.391
